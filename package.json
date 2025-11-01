@@ -1,0 +1,21 @@
+{
+  "name": "devop-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Watcher97/Devop-Pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Watcher97/Devop-Pipeline/issues"
+  },
+  "homepage": "https://github.com/Watcher97/Devop-Pipeline#readme"
+}
